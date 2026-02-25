@@ -1,39 +1,41 @@
 class Solution {
 public:
-    void helper(vector<int>& arr, int target, vector<vector<int>>& ans,
-                vector<int>& temp, int idx) {
+    void helper(vector<int>& candidates, int target,
+                vector<vector<int>>& result, vector<int>& temp, int idx) {
 
         if (target == 0) {
-            ans.push_back(temp);
+            result.push_back(temp);
             return;
         }
 
-        for (int i = idx; i < arr.size(); i++) {
+        if (target < 0 || idx == candidates.size()) {
+            return;
+        }
 
-            if (i > idx && arr[i] == arr[i - 1])
+        for (int i = idx; i < candidates.size(); i++) {
+
+            if (i > idx && candidates[i] == candidates[i - 1]) {
                 continue;
+            }
 
-            if(arr[i] > target){
+            if (candidates[i] > target) {
                 break;
             }
-            
-            temp.push_back(arr[i]);
 
-            helper(arr, target - arr[i], ans, temp, i + 1);
-
+            temp.push_back(candidates[i]);
+            helper(candidates, target - candidates[i], result, temp, i + 1);
             temp.pop_back();
         }
     }
 
-    vector<vector<int>> combinationSum2(vector<int>& arr, int target) {
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
 
-        sort(arr.begin(), arr.end());
+        sort(candidates.begin(), candidates.end());
 
-        vector<vector<int>> ans;
+        vector<vector<int>> result;
         vector<int> temp;
+        helper(candidates, target, result, temp, 0);
 
-        helper(arr, target, ans, temp, 0);
-
-        return ans;
+        return result;
     }
 };
