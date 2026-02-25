@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> result;
+   
 
     void getSubset(vector<int>& nums, vector<int>& temp, int idx, vector<vector<int>>& result) {
 
@@ -15,7 +15,8 @@ public:
         getSubset(nums, temp, idx + 1,result);
     }
     vector<vector<int>> subsets(vector<int>& nums) { 
-        
+
+         vector<vector<int>> result;    
         vector<int> temp;
         getSubset(nums, temp, 0,result);
         return result;
