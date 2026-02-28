@@ -1,2 +1,34 @@
-# DSA
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+# Data Structures & Algorithms
+
+#I regularly solve problems based on:
+
+# Recursion & Backtracking
+
+# Arrays & Strings
+
+# Binary Search
+
+# Stack & Queue
+
+# Linked List
+
+# Trees & Graphs
+
+# Dynamic Programming
+
+💻 Tech Stack
+
+Languages:
+C++
+
+Concepts:
+OOP | STL | Recursion | Backtracking | File Handling
+
+Tools:
+Git | GitHub | VS Code
+
+LeetCode
+
+CodeStudio
+
+Practice-based learning
