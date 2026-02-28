@@ -1,7 +1,7 @@
 class Solution {
 public:
     void helper(string& digits, int index, string temp,
-                vector<vector<string>>& ans, unordered_map<char, string>& mp){
+                vector<string>& ans, unordered_map<char, string>& mp){
 
                     if(index == digits.size()){
                         ans.push_back(temp);
@@ -19,7 +19,7 @@ public:
 
         vector<string> letterCombinations(string digits) {
 
-        vector<vector<string>> ans;
+        vector<string> ans;
 
         if (digits.empty())
             return ans;
