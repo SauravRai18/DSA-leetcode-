@@ -38,6 +38,7 @@ Practice-based learning
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/SauravRai18/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -67,4 +68,8 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/SauravRai18/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
