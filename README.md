@@ -40,6 +40,7 @@ Practice-based learning
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SauravRai18/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
@@ -47,6 +48,7 @@ Practice-based learning
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@ Practice-based learning
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
