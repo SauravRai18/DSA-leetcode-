@@ -38,11 +38,13 @@ Practice-based learning
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SauravRai18/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -72,4 +74,8 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/SauravRai18/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
