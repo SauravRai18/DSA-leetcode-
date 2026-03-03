@@ -99,4 +99,9 @@ Practice-based learning
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/SauravRai18/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
