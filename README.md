@@ -107,4 +107,8 @@ Practice-based learning
 | ------- | ------- |
 | [0015-3sum](https://github.com/SauravRai18/DSA/tree/main/0015-3sum/) | Medium |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/SauravRai18/DSA/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
