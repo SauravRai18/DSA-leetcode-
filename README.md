@@ -107,12 +107,14 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/SauravRai18/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SauravRai18/DSA/tree/main/0015-3sum/) | Medium |
+| [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
