@@ -43,6 +43,7 @@ Practice-based learning
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SauravRai18/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -93,11 +94,13 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/SauravRai18/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,5 +119,10 @@ Practice-based learning
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/SauravRai18/DSA/tree/main/0994-rotting-oranges/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
