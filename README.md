@@ -43,6 +43,7 @@ Practice-based learning
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SauravRai18/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -96,6 +97,7 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -104,6 +106,7 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -125,6 +128,7 @@ Practice-based learning
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -132,6 +136,7 @@ Practice-based learning
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
