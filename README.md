@@ -108,6 +108,7 @@ Practice-based learning
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/SauravRai18/DSA/tree/main/0684-redundant-connection/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Practice-based learning
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SauravRai18/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0684-redundant-connection](https://github.com/SauravRai18/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/SauravRai18/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
@@ -141,11 +143,13 @@ Practice-based learning
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SauravRai18/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0684-redundant-connection](https://github.com/SauravRai18/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/SauravRai18/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/SauravRai18/DSA/tree/main/0684-redundant-connection/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
