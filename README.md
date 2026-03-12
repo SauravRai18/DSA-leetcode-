@@ -162,4 +162,9 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/SauravRai18/DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/SauravRai18/DSA/tree/main/0338-counting-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/SauravRai18/DSA/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
