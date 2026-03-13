@@ -79,6 +79,7 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0743-network-delay-time](https://github.com/SauravRai18/DSA/tree/main/0743-network-delay-time/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Practice-based learning
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/SauravRai18/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/SauravRai18/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/SauravRai18/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -149,11 +151,13 @@ Practice-based learning
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/SauravRai18/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/SauravRai18/DSA/tree/main/0743-network-delay-time/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/SauravRai18/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/SauravRai18/DSA/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/SauravRai18/DSA/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +171,8 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/SauravRai18/DSA/tree/main/0338-counting-bits/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/SauravRai18/DSA/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
