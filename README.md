@@ -133,6 +133,7 @@ Practice-based learning
 | [0242-valid-anagram](https://github.com/SauravRai18/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/SauravRai18/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/SauravRai18/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ Practice-based learning
 | [0015-3sum](https://github.com/SauravRai18/DSA/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/SauravRai18/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ Practice-based learning
 | [0198-house-robber](https://github.com/SauravRai18/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/SauravRai18/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0338-counting-bits](https://github.com/SauravRai18/DSA/tree/main/0338-counting-bits/) | Easy |
+| [0647-palindromic-substrings](https://github.com/SauravRai18/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SauravRai18/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Shortest Path
