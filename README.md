@@ -52,6 +52,7 @@ Practice-based learning
 | [0332-reconstruct-itinerary](https://github.com/SauravRai18/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0518-coin-change-ii](https://github.com/SauravRai18/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/SauravRai18/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -201,6 +202,7 @@ Practice-based learning
 | [0198-house-robber](https://github.com/SauravRai18/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/SauravRai18/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0338-counting-bits](https://github.com/SauravRai18/DSA/tree/main/0338-counting-bits/) | Easy |
+| [0518-coin-change-ii](https://github.com/SauravRai18/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SauravRai18/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SauravRai18/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
