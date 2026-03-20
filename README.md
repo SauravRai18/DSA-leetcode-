@@ -51,6 +51,7 @@ Practice-based learning
 | [0213-house-robber-ii](https://github.com/SauravRai18/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SauravRai18/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SauravRai18/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SauravRai18/DSA/tree/main/0322-coin-change/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/SauravRai18/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -209,6 +210,7 @@ Practice-based learning
 | [0152-maximum-product-subarray](https://github.com/SauravRai18/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/SauravRai18/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/SauravRai18/DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/SauravRai18/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SauravRai18/DSA/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/SauravRai18/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0518-coin-change-ii](https://github.com/SauravRai18/DSA/tree/main/0518-coin-change-ii/) | Medium |
@@ -227,6 +229,7 @@ Practice-based learning
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SauravRai18/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/SauravRai18/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
