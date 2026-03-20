@@ -55,6 +55,7 @@ Practice-based learning
 | [0322-coin-change](https://github.com/SauravRai18/DSA/tree/main/0322-coin-change/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/SauravRai18/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/SauravRai18/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0518-coin-change-ii](https://github.com/SauravRai18/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -213,6 +214,7 @@ Practice-based learning
 | [0300-longest-increasing-subsequence](https://github.com/SauravRai18/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/SauravRai18/DSA/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/SauravRai18/DSA/tree/main/0338-counting-bits/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/SauravRai18/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/SauravRai18/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SauravRai18/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
