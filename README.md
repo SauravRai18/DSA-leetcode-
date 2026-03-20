@@ -44,6 +44,7 @@ Practice-based learning
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SauravRai18/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/SauravRai18/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -67,6 +68,7 @@ Practice-based learning
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0127-word-ladder](https://github.com/SauravRai18/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
 | [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SauravRai18/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -134,6 +136,7 @@ Practice-based learning
 | [0091-decode-ways](https://github.com/SauravRai18/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/SauravRai18/DSA/tree/main/0127-word-ladder/) | Hard |
+| [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/SauravRai18/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/SauravRai18/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -202,6 +205,7 @@ Practice-based learning
 | [0005-longest-palindromic-substring](https://github.com/SauravRai18/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/SauravRai18/DSA/tree/main/0091-decode-ways/) | Medium |
+| [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SauravRai18/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/SauravRai18/DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/SauravRai18/DSA/tree/main/0213-house-robber-ii/) | Medium |
@@ -228,4 +232,9 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
