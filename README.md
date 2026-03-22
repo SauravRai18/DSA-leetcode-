@@ -137,6 +137,7 @@ Practice-based learning
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SauravRai18/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/SauravRai18/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/SauravRai18/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/SauravRai18/DSA/tree/main/0127-word-ladder/) | Hard |
@@ -211,6 +212,7 @@ Practice-based learning
 | [0005-longest-palindromic-substring](https://github.com/SauravRai18/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/SauravRai18/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/SauravRai18/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/SauravRai18/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SauravRai18/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
