@@ -269,8 +269,13 @@ Practice-based learning
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SauravRai18/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/SauravRai18/DSA/tree/main/0155-min-stack/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/SauravRai18/DSA/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
