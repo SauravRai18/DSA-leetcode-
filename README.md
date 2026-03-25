@@ -63,6 +63,7 @@ Practice-based learning
 | [0494-target-sum](https://github.com/SauravRai18/DSA/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/SauravRai18/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0733-flood-fill](https://github.com/SauravRai18/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/SauravRai18/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/SauravRai18/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/SauravRai18/DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -273,10 +274,12 @@ Practice-based learning
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SauravRai18/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/SauravRai18/DSA/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/SauravRai18/DSA/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/SauravRai18/DSA/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
