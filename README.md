@@ -43,6 +43,7 @@ Practice-based learning
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/SauravRai18/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
@@ -124,6 +125,7 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/SauravRai18/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -251,6 +253,7 @@ Practice-based learning
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SauravRai18/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SauravRai18/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/SauravRai18/DSA/tree/main/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/SauravRai18/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
