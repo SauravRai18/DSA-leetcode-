@@ -66,6 +66,7 @@ Practice-based learning
 | [0739-daily-temperatures](https://github.com/SauravRai18/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/SauravRai18/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0853-car-fleet](https://github.com/SauravRai18/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0994-rotting-oranges](https://github.com/SauravRai18/DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ Practice-based learning
 | [0242-valid-anagram](https://github.com/SauravRai18/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/SauravRai18/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0853-car-fleet](https://github.com/SauravRai18/DSA/tree/main/0853-car-fleet/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,11 +277,13 @@ Practice-based learning
 | [0150-evaluate-reverse-polish-notation](https://github.com/SauravRai18/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/SauravRai18/DSA/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/SauravRai18/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/SauravRai18/DSA/tree/main/0853-car-fleet/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/SauravRai18/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/SauravRai18/DSA/tree/main/0853-car-fleet/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
