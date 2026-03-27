@@ -39,6 +39,7 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SauravRai18/DSA/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/SauravRai18/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/SauravRai18/DSA/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
@@ -85,6 +86,7 @@ Practice-based learning
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SauravRai18/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0191-number-of-1-bits](https://github.com/SauravRai18/DSA/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
@@ -253,6 +255,7 @@ Practice-based learning
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SauravRai18/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/SauravRai18/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SauravRai18/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/SauravRai18/DSA/tree/main/0704-binary-search/) | Easy |
