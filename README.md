@@ -79,6 +79,7 @@ Practice-based learning
 | [0003-longest-substring-without-repeating-characters](https://github.com/SauravRai18/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/SauravRai18/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/SauravRai18/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
@@ -154,6 +155,7 @@ Practice-based learning
 | [0020-valid-parentheses](https://github.com/SauravRai18/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/SauravRai18/DSA/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/SauravRai18/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/SauravRai18/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/SauravRai18/DSA/tree/main/0127-word-ladder/) | Hard |
@@ -309,6 +311,7 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SauravRai18/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/SauravRai18/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/SauravRai18/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/SauravRai18/DSA/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
