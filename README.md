@@ -41,6 +41,7 @@ Practice-based learning
 | [0001-two-sum](https://github.com/SauravRai18/DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/SauravRai18/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/SauravRai18/DSA/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/SauravRai18/DSA/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/SauravRai18/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/SauravRai18/DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -175,6 +176,7 @@ Practice-based learning
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SauravRai18/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/SauravRai18/DSA/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/SauravRai18/DSA/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
