@@ -73,6 +73,7 @@ Practice-based learning
 | [0778-swim-in-rising-water](https://github.com/SauravRai18/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0853-car-fleet](https://github.com/SauravRai18/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0994-rotting-oranges](https://github.com/SauravRai18/DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [1929-concatenation-of-array](https://github.com/SauravRai18/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,4 +326,8 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/SauravRai18/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/SauravRai18/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
