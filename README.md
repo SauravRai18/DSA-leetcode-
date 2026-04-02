@@ -332,4 +332,12 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/SauravRai18/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/SauravRai18/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/SauravRai18/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
