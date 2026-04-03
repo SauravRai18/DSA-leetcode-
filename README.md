@@ -86,6 +86,7 @@ Practice-based learning
 | [0127-word-ladder](https://github.com/SauravRai18/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/SauravRai18/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
+| [0141-linked-list-cycle](https://github.com/SauravRai18/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SauravRai18/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -179,6 +180,7 @@ Practice-based learning
 | [0027-remove-element](https://github.com/SauravRai18/DSA/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/SauravRai18/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/SauravRai18/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SauravRai18/DSA/tree/main/0647-palindromic-substrings/) | Medium |
@@ -336,6 +338,7 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SauravRai18/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/SauravRai18/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/SauravRai18/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
