@@ -181,6 +181,7 @@ Practice-based learning
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SauravRai18/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/SauravRai18/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/SauravRai18/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SauravRai18/DSA/tree/main/0647-palindromic-substrings/) | Medium |
@@ -300,6 +301,7 @@ Practice-based learning
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SauravRai18/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SauravRai18/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0143-reorder-list](https://github.com/SauravRai18/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SauravRai18/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/SauravRai18/DSA/tree/main/0155-min-stack/) | Medium |
 | [0739-daily-temperatures](https://github.com/SauravRai18/DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -339,10 +341,12 @@ Practice-based learning
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SauravRai18/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SauravRai18/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/SauravRai18/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SauravRai18/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SauravRai18/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/SauravRai18/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SauravRai18/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
