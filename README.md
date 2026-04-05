@@ -190,6 +190,7 @@ Practice-based learning
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SauravRai18/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/SauravRai18/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/SauravRai18/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/SauravRai18/DSA/tree/main/0070-climbing-stairs/) | Easy |
@@ -341,6 +342,7 @@ Practice-based learning
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SauravRai18/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SauravRai18/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/SauravRai18/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/SauravRai18/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -350,6 +352,7 @@ Practice-based learning
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SauravRai18/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/SauravRai18/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/SauravRai18/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SauravRai18/DSA/tree/main/0206-reverse-linked-list/) | Easy |
