@@ -58,6 +58,7 @@ Practice-based learning
 | [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SauravRai18/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SauravRai18/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/SauravRai18/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SauravRai18/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SauravRai18/DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/SauravRai18/DSA/tree/main/0322-coin-change/) | Medium |
@@ -184,6 +185,7 @@ Practice-based learning
 | [0125-valid-palindrome](https://github.com/SauravRai18/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SauravRai18/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/SauravRai18/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SauravRai18/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/SauravRai18/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/SauravRai18/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/SauravRai18/DSA/tree/main/0647-palindromic-substrings/) | Medium |
@@ -239,6 +241,7 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/SauravRai18/DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SauravRai18/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/SauravRai18/DSA/tree/main/0338-counting-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -279,6 +282,7 @@ Practice-based learning
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SauravRai18/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/SauravRai18/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SauravRai18/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SauravRai18/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/SauravRai18/DSA/tree/main/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/SauravRai18/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
