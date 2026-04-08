@@ -89,6 +89,7 @@ Practice-based learning
 | [0138-copy-list-with-random-pointer](https://github.com/SauravRai18/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/SauravRai18/DSA/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SauravRai18/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/SauravRai18/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/SauravRai18/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SauravRai18/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SauravRai18/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -322,6 +323,7 @@ Practice-based learning
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/SauravRai18/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/SauravRai18/DSA/tree/main/0155-min-stack/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -352,6 +354,7 @@ Practice-based learning
 | [0138-copy-list-with-random-pointer](https://github.com/SauravRai18/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SauravRai18/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/SauravRai18/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/SauravRai18/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SauravRai18/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -360,4 +363,8 @@ Practice-based learning
 | [0021-merge-two-sorted-lists](https://github.com/SauravRai18/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/SauravRai18/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SauravRai18/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/SauravRai18/DSA/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
