@@ -205,6 +205,7 @@ Practice-based learning
 | [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SauravRai18/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/SauravRai18/DSA/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/SauravRai18/DSA/tree/main/0684-redundant-connection/) | Medium |
@@ -219,6 +220,7 @@ Practice-based learning
 | [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SauravRai18/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/SauravRai18/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/SauravRai18/DSA/tree/main/0684-redundant-connection/) | Medium |
@@ -367,4 +369,12 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/SauravRai18/DSA/tree/main/0146-lru-cache/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
