@@ -219,6 +219,7 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/SauravRai18/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SauravRai18/DSA/tree/main/0210-course-schedule-ii/) | Medium |
@@ -376,12 +377,14 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
