@@ -226,6 +226,7 @@ Practice-based learning
 | [0200-number-of-islands](https://github.com/SauravRai18/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SauravRai18/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SauravRai18/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/SauravRai18/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/SauravRai18/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -383,6 +384,7 @@ Practice-based learning
 | [0104-maximum-depth-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SauravRai18/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SauravRai18/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
@@ -392,6 +394,7 @@ Practice-based learning
 | [0104-maximum-depth-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SauravRai18/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/SauravRai18/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/SauravRai18/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
@@ -402,4 +405,8 @@ Practice-based learning
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SauravRai18/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SauravRai18/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
